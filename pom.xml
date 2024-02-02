@@ -31,10 +31,11 @@
 <artifactId>maven-pmd-plugin</artifactId>
 <version>3.13.0</version>
 <configuration>
-<rulesets> <ruleset>freddy_rules.xml</ruleset>
+<rulesets> <ruleset>freddy_ruleset.xml</ruleset>
 </rulesets>
 </configuration>
 </plugin>
 </plugins>
 </reporting>
 </project>
+

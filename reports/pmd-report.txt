@@ -1,0 +1,10 @@
+src/main/java/DiningExperienceManager.java:15:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'confirmExit' is never used (overwritten on lines 43 and 46)
+src/main/java/DiningExperienceManager.java:17:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/DiningExperienceManager.java:46:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'confirmExit' is never used (overwritten on line 50)
+src/main/java/DiningExperienceManager.java:47:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'meal' is never used
+src/main/java/DiningExperienceManager.java:48:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/DiningExperienceManager.java:66:	AvoidReassigningLoopVariables:	AvoidReassigningLoopVariables: Avoid reassigning the loop control variable 'i'
+src/main/java/DiningExperienceManager.java:66:	UnusedAssignment:	UnusedAssignment: The updated value of variable 'i' is never used (overwritten on line 58)
+src/main/java/DiningExperienceManager.java:75:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/DiningExperienceManager.java:76:	AvoidReassigningLoopVariables:	AvoidReassigningLoopVariables: Avoid reassigning the loop control variable 'i'
+src/main/java/DiningExperienceManager.java:126:	UseVarargs:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
